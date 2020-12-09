@@ -1,5 +1,5 @@
 # API
-- Interact with 6PG through HTTP requests
+- Interact with PhoxBuild through HTTP requests
 
 ## Uses
 - Bot interaction for webapp

@@ -1,5 +1,5 @@
 # Auto Mod
-Let 3PG filter explicit content, spam and more!
+Let PhoxBuild filter explicit content, spam and more!
 
 ---
 

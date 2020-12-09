@@ -11,7 +11,7 @@ Custom responses to specific events.
 ---
 
 ## Types
-These types combine both Discord events and 3PG events.
+These types combine both Discord events and PhoxBuilder events.
 
 Event               | Description
 :-------------------|:----------------------------

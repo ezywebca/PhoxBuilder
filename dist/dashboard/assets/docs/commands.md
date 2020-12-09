@@ -16,4 +16,4 @@ The name of the command.
 
 ### Enabled `true`
 Whether the command can be executed.
-When a command is disabled, 3PG will respond with an error message.
+When a command is disabled, PhoxBuild will respond with an error message.
