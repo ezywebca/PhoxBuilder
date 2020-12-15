@@ -9,6 +9,6 @@ export default class GuildCreateHandler implements EventHandler {
     }
 
     private sendWelcomeMessage(channel: TextChannel | null) {
-        return channel?.send(`Hey, I'm a Bot Built Using https://phoxbuild.herokuapp.com  Its Free To Use!`);
+        return channel?.send(`Thanks For Inviting Me Im NewBot! Check me Out @ http://newbot.onthewifi.com`);
     }    
 }
